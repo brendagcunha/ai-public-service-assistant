@@ -1,4 +1,3 @@
-# ai-public-service-assistant
 # Implementing and Evaluating an AI-Assisted Public Helpdesk in Foreign Trade Administration
 
 ## Purpose
